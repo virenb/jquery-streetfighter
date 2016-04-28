@@ -10,3 +10,7 @@ body {
 	position: relative;
 	z-index: 1;
 }
+
+.ryu {
+	float: left;
+}
